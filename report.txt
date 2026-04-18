@@ -1,0 +1,452 @@
+=== LOG REPORT ===
+
+[OK] INFO User login
+[ERROR] ERROR Database failed
+[ERROR] ERROR Database failed
+[OK] WARNING Disk usage high
+[OK] INFO User login
+[OK] INFO File uploaded
+[ERROR] ERROR Database failed
+[OK] WARNING Disk usage high
+[OK] INFO File uploaded
+[OK] INFO User login
+[ERROR] ERROR Database failed
+[OK] INFO User login
+[OK] WARNING Disk usage high
+[OK] INFO User login
+[ERROR] ERROR Database failed
+[ERROR] ERROR Database failed
+[OK] INFO File uploaded
+[OK] WARNING Disk usage high
+[OK] INFO User login
+[ERROR] ERROR Database failed
+[OK] INFO User login
+[OK] WARNING Disk usage high
+[OK] INFO File uploaded
+[OK] INFO File uploaded
+[OK] WARNING Disk usage high
+[OK] INFO File uploaded
+[OK] WARNING Disk usage high
+[OK] INFO User login
+[OK] WARNING Disk usage high
+[OK] INFO User login
+[ERROR] ERROR Database failed
+[OK] INFO User login
+[ERROR] ERROR Database failed
+[ERROR] ERROR Database failed
+[OK] INFO File uploaded
+[ERROR] ERROR Database failed
+[OK] INFO File uploaded
+[OK] WARNING Disk usage high
+[OK] INFO File uploaded
+[OK] INFO File uploaded
+[OK] INFO File uploaded
+[OK] WARNING Disk usage high
+[OK] INFO File uploaded
+[ERROR] ERROR Database failed
+[OK] INFO User login
+[ERROR] ERROR Database failed
+[OK] INFO File uploaded
+[OK] INFO User login
+[OK] INFO User login
+[OK] WARNING Disk usage high
+[OK] WARNING Disk usage high
+[ERROR] ERROR Database failed
+[ERROR] ERROR Database failed
+[OK] INFO File uploaded
+[OK] INFO File uploaded
+[OK] INFO File uploaded
+[OK] INFO File uploaded
+[OK] INFO User login
+[ERROR] ERROR Database failed
+[ERROR] ERROR Database failed
+[OK] INFO File uploaded
+[OK] WARNING Disk usage high
+[ERROR] ERROR Database failed
+[OK] WARNING Disk usage high
+[OK] WARNING Disk usage high
+[OK] WARNING Disk usage high
+[OK] WARNING Disk usage high
+[OK] INFO File uploaded
+[OK] WARNING Disk usage high
+[ERROR] ERROR Database failed
+[OK] INFO File uploaded
+[OK] WARNING Disk usage high
+[OK] INFO File uploaded
+[OK] INFO File uploaded
+[ERROR] ERROR Database failed
+[OK] INFO File uploaded
+[OK] INFO User login
+[OK] INFO File uploaded
+[OK] INFO User login
+[OK] WARNING Disk usage high
+[OK] INFO File uploaded
+[OK] WARNING Disk usage high
+[ERROR] ERROR Database failed
+[OK] INFO User login
+[OK] INFO User login
+[OK] WARNING Disk usage high
+[ERROR] ERROR Database failed
+[OK] INFO File uploaded
+[OK] INFO User login
+[OK] WARNING Disk usage high
+[OK] WARNING Disk usage high
+[OK] WARNING Disk usage high
+[OK] INFO File uploaded
+[OK] INFO User login
+[ERROR] ERROR Database failed
+[OK] INFO File uploaded
+[OK] INFO File uploaded
+[OK] WARNING Disk usage high
+[OK] INFO File uploaded
+[OK] INFO User login
+[OK] INFO User login
+[OK] INFO User login
+[OK] INFO File uploaded
+[OK] INFO User login
+[OK] WARNING Disk usage high
+[OK] WARNING Disk usage high
+[ERROR] ERROR Database failed
+[OK] INFO File uploaded
+[OK] INFO File uploaded
+[OK] WARNING Disk usage high
+[OK] INFO User login
+[OK] INFO User login
+[OK] INFO User login
+[OK] WARNING Disk usage high
+[ERROR] ERROR Database failed
+[OK] WARNING Disk usage high
+[OK] WARNING Disk usage high
+[OK] WARNING Disk usage high
+[OK] INFO File uploaded
+[OK] WARNING Disk usage high
+[OK] WARNING Disk usage high
+[OK] INFO File uploaded
+[OK] INFO User login
+[ERROR] ERROR Database failed
+[ERROR] ERROR Database failed
+[OK] INFO File uploaded
+[OK] INFO File uploaded
+[OK] WARNING Disk usage high
+[OK] INFO File uploaded
+[ERROR] ERROR Database failed
+[OK] WARNING Disk usage high
+[ERROR] ERROR Database failed
+[OK] INFO File uploaded
+[OK] WARNING Disk usage high
+[OK] INFO User login
+[ERROR] ERROR Database failed
+[ERROR] ERROR Database failed
+[ERROR] ERROR Database failed
+[OK] WARNING Disk usage high
+[OK] INFO User login
+[OK] INFO File uploaded
+[ERROR] ERROR Database failed
+[ERROR] ERROR Database failed
+[OK] WARNING Disk usage high
+[OK] INFO File uploaded
+[OK] INFO User login
+[OK] INFO User login
+[OK] INFO User login
+[OK] INFO User login
+[ERROR] ERROR Database failed
+[OK] WARNING Disk usage high
+[OK] WARNING Disk usage high
+[OK] INFO User login
+[OK] WARNING Disk usage high
+[ERROR] ERROR Database failed
+[OK] INFO File uploaded
+[OK] INFO User login
+[OK] INFO File uploaded
+[OK] INFO User login
+[OK] INFO File uploaded
+[OK] WARNING Disk usage high
+[ERROR] ERROR Database failed
+[OK] WARNING Disk usage high
+[OK] WARNING Disk usage high
+[ERROR] ERROR Database failed
+[OK] INFO User login
+[OK] WARNING Disk usage high
+[OK] INFO File uploaded
+[OK] INFO File uploaded
+[OK] WARNING Disk usage high
+[OK] WARNING Disk usage high
+[ERROR] ERROR Database failed
+[OK] WARNING Disk usage high
+[OK] INFO File uploaded
+[ERROR] ERROR Database failed
+[OK] INFO File uploaded
+[OK] INFO User login
+[OK] INFO User login
+[ERROR] ERROR Database failed
+[ERROR] ERROR Database failed
+[OK] WARNING Disk usage high
+[OK] INFO File uploaded
+[OK] INFO User login
+[OK] INFO User login
+[ERROR] ERROR Database failed
+[OK] INFO File uploaded
+[ERROR] ERROR Database failed
+[OK] WARNING Disk usage high
+[OK] WARNING Disk usage high
+[OK] INFO File uploaded
+[OK] INFO User login
+[OK] INFO File uploaded
+[ERROR] ERROR Database failed
+[OK] INFO File uploaded
+[OK] WARNING Disk usage high
+[OK] INFO User login
+[ERROR] ERROR Database failed
+[OK] INFO File uploaded
+[OK] WARNING Disk usage high
+[ERROR] ERROR Database failed
+[OK] INFO User login
+[OK] INFO File uploaded
+[ERROR] ERROR Database failed
+[ERROR] ERROR Database failed
+[OK] WARNING Disk usage high
+[OK] INFO File uploaded
+[OK] INFO File uploaded
+[OK] INFO File uploaded
+[OK] INFO File uploaded
+[ERROR] ERROR Database failed
+[ERROR] ERROR Database failed
+[OK] WARNING Disk usage high
+[OK] INFO User login
+[ERROR] ERROR Database failed
+[ERROR] ERROR Database failed
+[OK] INFO User login
+[OK] INFO User login
+[OK] INFO File uploaded
+[OK] INFO User login
+[ERROR] ERROR Database failed
+[ERROR] ERROR Database failed
+[OK] INFO File uploaded
+[OK] INFO User login
+[OK] INFO File uploaded
+[ERROR] ERROR Database failed
+[OK] INFO User login
+[OK] WARNING Disk usage high
+[OK] INFO File uploaded
+[OK] WARNING Disk usage high
+[OK] WARNING Disk usage high
+[OK] WARNING Disk usage high
+[OK] INFO User login
+[OK] INFO File uploaded
+[OK] INFO File uploaded
+[OK] INFO User login
+[OK] INFO File uploaded
+[OK] INFO User login
+[ERROR] ERROR Database failed
+[OK] WARNING Disk usage high
+[ERROR] ERROR Database failed
+[OK] INFO File uploaded
+[OK] INFO User login
+[OK] INFO File uploaded
+[ERROR] ERROR Database failed
+[ERROR] ERROR Database failed
+[ERROR] ERROR Database failed
+[OK] INFO File uploaded
+[OK] INFO File uploaded
+[OK] INFO File uploaded
+[ERROR] ERROR Database failed
+[ERROR] ERROR Timeout occurred
+[OK] WARNING CPU temperature high
+[OK] INFO Connection established
+[ERROR] ERROR API request failed
+[OK] WARNING CPU temperature high
+[OK] WARNING Disk usage high
+[OK] INFO Connection established
+[OK] INFO User login
+[OK] WARNING Disk usage high
+[ERROR] ERROR Timeout occurred
+[ERROR] ERROR Database failed
+[OK] WARNING CPU temperature high
+[OK] WARNING CPU temperature high
+[ERROR] ERROR Disk read failure
+[ERROR] ERROR Disk read failure
+[OK] WARNING CPU temperature high
+[OK] INFO File uploaded
+[OK] WARNING Memory usage high
+[ERROR] ERROR API request failed
+[OK] WARNING Disk usage high
+[ERROR] ERROR API request failed
+[ERROR] ERROR Disk read failure
+[OK] INFO Connection established
+[ERROR] ERROR Database failed
+[OK] INFO File uploaded
+[OK] INFO Service started
+[ERROR] ERROR Timeout occurred
+[OK] INFO User login
+[OK] INFO User login
+[ERROR] ERROR Disk read failure
+[OK] INFO File uploaded
+[OK] INFO User login
+[OK] WARNING Memory usage high
+[ERROR] ERROR Disk read failure
+[OK] INFO Connection established
+[ERROR] ERROR Timeout occurred
+[OK] WARNING Disk usage high
+[ERROR] ERROR Timeout occurred
+[ERROR] ERROR Timeout occurred
+[ERROR] ERROR Disk read failure
+[ERROR] ERROR Timeout occurred
+[OK] INFO Connection established
+[OK] INFO Service started
+[OK] WARNING Disk usage high
+[OK] INFO Connection established
+[OK] INFO Service started
+[OK] WARNING Memory usage high
+[ERROR] ERROR Disk read failure
+[ERROR] ERROR API request failed
+[OK] INFO Service started
+[ERROR] ERROR Database failed
+[OK] INFO User login
+[OK] INFO Connection established
+[OK] INFO File uploaded
+[OK] WARNING CPU temperature high
+[OK] INFO File uploaded
+[ERROR] ERROR Timeout occurred
+[OK] WARNING CPU temperature high
+[OK] INFO File uploaded
+[OK] INFO File uploaded
+[ERROR] ERROR Database failed
+[ERROR] ERROR Database failed
+[ERROR] ERROR API request failed
+[ERROR] ERROR Disk read failure
+[ERROR] ERROR Database failed
+[ERROR] ERROR Timeout occurred
+[OK] INFO Service started
+[OK] WARNING CPU temperature high
+[ERROR] ERROR Timeout occurred
+[OK] WARNING Memory usage high
+[ERROR] ERROR Database failed
+[ERROR] ERROR Timeout occurred
+[OK] INFO Connection established
+[OK] INFO File uploaded
+[ERROR] ERROR API request failed
+[OK] WARNING CPU temperature high
+[OK] WARNING CPU temperature high
+[OK] WARNING Disk usage high
+[OK] WARNING Memory usage high
+[OK] INFO File uploaded
+[OK] WARNING CPU temperature high
+[OK] INFO User login
+[OK] INFO Service started
+[OK] INFO User login
+[OK] INFO File uploaded
+[ERROR] ERROR API request failed
+[ERROR] ERROR Database failed
+[OK] WARNING Memory usage high
+[ERROR] ERROR API request failed
+[OK] INFO Service started
+[OK] WARNING Disk usage high
+[OK] INFO File uploaded
+[ERROR] ERROR API request failed
+[OK] INFO Connection established
+[OK] WARNING CPU temperature high
+[ERROR] ERROR API request failed
+[OK] WARNING Disk usage high
+[ERROR] ERROR Database failed
+[OK] WARNING CPU temperature high
+[OK] WARNING Memory usage high
+[OK] INFO File uploaded
+[OK] INFO User login
+[OK] WARNING CPU temperature high
+[OK] INFO User login
+[ERROR] ERROR Timeout occurred
+[ERROR] ERROR API request failed
+[ERROR] ERROR API request failed
+[OK] WARNING Disk usage high
+[ERROR] ERROR Timeout occurred
+[ERROR] ERROR Database failed
+[OK] INFO User login
+[OK] WARNING Memory usage high
+[ERROR] ERROR API request failed
+[OK] WARNING CPU temperature high
+[OK] INFO Service started
+[OK] INFO User login
+[ERROR] ERROR Disk read failure
+[OK] INFO Service started
+[OK] INFO Connection established
+[OK] INFO User login
+[OK] WARNING CPU temperature high
+[ERROR] ERROR Disk read failure
+[OK] WARNING Disk usage high
+[ERROR] ERROR Disk read failure
+[ERROR] ERROR Timeout occurred
+[OK] INFO Connection established
+[OK] WARNING Disk usage high
+[ERROR] ERROR Database failed
+[OK] WARNING CPU temperature high
+[ERROR] ERROR Disk read failure
+[OK] INFO User login
+[OK] WARNING CPU temperature high
+[ERROR] ERROR API request failed
+[ERROR] ERROR Disk read failure
+[ERROR] ERROR Disk read failure
+[OK] INFO File uploaded
+[ERROR] ERROR Disk read failure
+[OK] INFO Connection established
+[OK] INFO Service started
+[ERROR] ERROR Database failed
+[OK] WARNING Memory usage high
+[ERROR] ERROR Timeout occurred
+[OK] INFO File uploaded
+[OK] INFO Connection established
+[OK] INFO User login
+[ERROR] ERROR Disk read failure
+[OK] WARNING Disk usage high
+[OK] INFO Service started
+[OK] INFO File uploaded
+[OK] WARNING Memory usage high
+[ERROR] ERROR API request failed
+[OK] WARNING Disk usage high
+[OK] WARNING CPU temperature high
+[OK] INFO Connection established
+[OK] INFO Connection established
+[OK] WARNING Disk usage high
+[OK] INFO Service started
+[OK] INFO User login
+[ERROR] ERROR Database failed
+[ERROR] ERROR Timeout occurred
+[OK] INFO User login
+[OK] WARNING Memory usage high
+[OK] INFO File uploaded
+[OK] INFO Connection established
+[ERROR] ERROR API request failed
+[OK] INFO Connection established
+[OK] INFO User login
+[OK] WARNING CPU temperature high
+[OK] WARNING CPU temperature high
+[OK] INFO File uploaded
+[ERROR] ERROR Disk read failure
+[OK] WARNING Disk usage high
+[OK] INFO File uploaded
+[OK] INFO Connection established
+[ERROR] ERROR API request failed
+[ERROR] ERROR Database failed
+[OK] INFO Connection established
+[OK] INFO Service started
+[OK] INFO File uploaded
+[OK] INFO File uploaded
+[ERROR] ERROR Database failed
+[OK] WARNING Memory usage high
+[OK] INFO File uploaded
+[OK] INFO File uploaded
+[OK] INFO User login
+[ERROR] ERROR API request failed
+[OK] WARNING Memory usage high
+[ERROR] ERROR Timeout occurred
+[ERROR] ERROR Database failed
+[OK] INFO Service started
+[ERROR] ERROR Disk read failure
+[OK] WARNING Memory usage high
+[OK] INFO Service started
+[ERROR] ERROR Timeout occurred
+[OK] INFO Service started
+[OK] WARNING Memory usage high
+[OK] WARNING Disk usage high
+[OK] INFO Service started
+[OK] WARNING Disk usage high
+[ERROR] ERROR Timeout occurred
